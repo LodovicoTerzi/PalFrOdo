@@ -14,3 +14,4 @@ Feel free to use them!
 
 ## Here is a description of the different palettes
 
+[My image](username.github.com/repository/img/image.jpg)
