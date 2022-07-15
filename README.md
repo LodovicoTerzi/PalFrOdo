@@ -8,6 +8,10 @@ These palettes were created based on images downloaded from the web or from pict
 
 Feel free to use them!
 
+To install, first install the devtools package in R, then run
+
+`devtools::install_github("LodovicoTerzi/PalFrOdo")`
+
 `PalFrOdo()` returns the colors in the palette specified. Please check below for updated names and palettes
 
 `PlotFrOdo()` plots the available palettes
