@@ -14,4 +14,6 @@ Feel free to use them!
 
 ## Here is a description of the different palettes
 
-[My image](https://github.com/LodovicoTerzi/PalFrOdo/tree/main/img/FrOdo.png)
+![My image](https://github.com/LodovicoTerzi/PalFrOdo/tree/main/img/FrOdo.png)
+
+
