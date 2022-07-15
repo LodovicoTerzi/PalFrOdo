@@ -1,6 +1,7 @@
 #' Plot available palettes
 #'
 #' @return A plot with the names of the available palettes
+#' @export
 
 
 

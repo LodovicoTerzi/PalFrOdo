@@ -2,6 +2,7 @@
 #'
 #' @param name Name of the palette
 #' @return A vector with colors of the selected palette
+#' @export
 
 
 
