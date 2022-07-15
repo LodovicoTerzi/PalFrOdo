@@ -6,7 +6,7 @@
 
 
 
-PalFrOdo <- function(name, n=NULL){
+PalFrOdo <- function(name){
   #colist <- list(
   #  "pillars"=c("#2A1D2E","#45303E","#3A435B","#47607C","#6A828F","#9BBFBF","#BCE2CC","#E1ECB3", "#FFFFCF","#FAE0D6","#BF484B","#873140","#3C1617","#634135","#616052","#110305"),
   #  "autumn"=c("#0C67A1","#B44014","#EDBC4C","#3C4F45","#C8C8CD","#6F3614","#050507"),

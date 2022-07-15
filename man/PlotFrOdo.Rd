@@ -12,6 +12,3 @@ A plot with the names of the available palettes
 \description{
 Plot available palettes
 }
-\examples{
-PlotFrOdo()
-}

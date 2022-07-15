@@ -4,7 +4,7 @@
 \alias{PalFrOdo}
 \title{Custom palettes}
 \usage{
-PalFrOdo(name, n = NULL)
+PalFrOdo(name)
 }
 \arguments{
 \item{name}{Name of the palette}
@@ -14,7 +14,4 @@ A vector with colors of the selected palette
 }
 \description{
 Custom palettes
-}
-\examples{
-PalFrOdo("pillars")
 }
