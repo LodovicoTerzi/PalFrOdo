@@ -1,0 +1,13 @@
+Package: PalFrOdo
+Type: Package
+Title: PalFrOdo is a collection of R palettes for discrete and continuous range of colors
+Version: 0.1.0
+Author: Lodovico Terzi di Bergamo, Francesca Guidetti
+Maintainer: Lodovico Terzi di Bergamo <lodovico.terzi@ior.usi.ch>
+Description: Based on the continuous need for finding adequate colors for different plots, we reasoned it would be good to have some to re-use when needed.    
+				These palettes were created based on images downloaded from the web or from pictures taken by us.    
+				Feel free to use them!
+License: NA
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
