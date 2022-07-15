@@ -9,6 +9,7 @@ These palettes were created based on images downloaded from the web or from pict
 Feel free to use them!
 
 `PalFrOdo()` returns the colors in the palette specified. Please check below for updated names and palettes
+
 `PlotFrOdo()` plots the available palettes
 
 ## Here is a description of the different palettes
