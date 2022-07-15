@@ -1,8 +1,8 @@
-# Some useful keyboard shortcuts for package authoring:
-#
-#   Install Package:           'Cmd + Shift + B'
-#   Check Package:             'Cmd + Shift + E'
-#   Test Package:              'Cmd + Shift + T'
+#' Plot available palettes
+#'
+#' @return A plot with the names of the available palettes
+
+
 
 
 PlotFrOdo <- function(){

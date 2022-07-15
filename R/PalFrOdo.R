@@ -1,8 +1,9 @@
-# Some useful keyboard shortcuts for package authoring:
-#
-#   Install Package:           'Cmd + Shift + B'
-#   Check Package:             'Cmd + Shift + E'
-#   Test Package:              'Cmd + Shift + T'
+#' Custom palettes
+#'
+#' @param name Name of the palette
+#' @return A vector with colors of the selected palette
+
+
 
 
 PalFrOdo <- function(name, n=NULL){
